@@ -6,6 +6,4 @@ class Player
     @id = id
     @lives = 3
   end
-
 end
-# tracks player id and number of lives
